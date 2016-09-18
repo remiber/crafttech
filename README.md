@@ -5,4 +5,4 @@ Le site est accessible à l'adresse [crafttech.fr.ht](http://crafttech.fr.ht) ou
 
 ### Contenu
 * `index.html` Accueil du site
-* `logoct.html` Page accessible à l'adresse [crafttech.fr.ht/logoct](http://crafttech.fr.ht/logoct ou par adresse github contenant les informations d'utilisation et crédits des logos du serveur CraftTech.
+* `logoct.html` Page accessible à l'adresse [crafttech.fr.ht/logoct](http://crafttech.fr.ht/logoct) ou par adresse github contenant les informations d'utilisation et crédits des logos du serveur CraftTech.
