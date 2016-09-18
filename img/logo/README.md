@@ -1,2 +1,2 @@
 # Logo de CraftTech
-Toutes les informations sont disponibles à l'adresse ../logoinfos
+Toutes les informations sont disponibles à l'adresse : crafttech/logoinfos
